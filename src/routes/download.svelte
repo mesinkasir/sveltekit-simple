@@ -14,4 +14,3 @@
 	<h1><a href="/download">Download Mesin kasir E-Catalog</a></h1>
 	<h3>Mesin kasir touchscreen POS all in one</h3>
 </div>
-</div>

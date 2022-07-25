@@ -14,4 +14,3 @@
 	<h1>About this app</h1>
 	<h3>Mesin kasir touchscreen POS all in one</h3>
 </div>
-</div>
