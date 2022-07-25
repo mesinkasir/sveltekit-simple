@@ -1,3 +1,3 @@
 # sveltekit-simple
 
-Just tester....
+Sveltekit Simple with SEO - include svelte:head SEO injection.
