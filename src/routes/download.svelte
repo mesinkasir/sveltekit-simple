@@ -32,9 +32,8 @@
 <div class="content">
 	<h1><a href={data.downloadurl}>{data.download}</a></h1>
 	<h3>{data.downloaddesc}</h3>
-	<div class="ratio ratio-1x1">
-  <iframe src={data.downloadlink} title={data.download} allowfullscreen></iframe>
-</div>
+	
+<embed src={data.downloadlink} width="800px" height="800px" />
 <div class="p-3 text-center">
 	<a href={data.downloadlink} class="btn btn-dark btn-lg text-light">{data.downloadbtn}</a>
 	</div>
